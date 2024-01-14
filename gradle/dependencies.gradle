@@ -13,6 +13,10 @@ repositories {
         name "Rei"
         url "https://maven.shedaniel.me/"
     }
+    maven {
+        name "Dynamic Trees"
+        url "https://harleyoconnor.com/maven"
+    }
 }
 
 dependencies {
